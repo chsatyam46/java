@@ -8,6 +8,7 @@ class basic {
     b=obj.nextInt();
     sum=a+b;
     System.out.print("you output is:" + sum);
+    System.out.print("you output ");
         
     }
 }
